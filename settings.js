@@ -10,14 +10,14 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : Jupiter - MD
+Creator : @jupiter , @jupiter
 
 */
 
 module.exports = {
   OWNER_NUMBER: "254756574562",
-  SUDO_NUMBERS : "254756574562,94719574492",
+  SUDO_NUMBERS : "254756574562",
   OWNER_NAME: "『 {√💔JUPITER}™🕊️ 』",
   BOT_NAME : "BLACKSURF-MD",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -31,7 +31,7 @@ module.exports = {
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
+  TIME_ZONE :  "Africa/Nairobi",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
