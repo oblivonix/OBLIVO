@@ -18,8 +18,8 @@ Creator : @jupiter , @jupiter
 module.exports = {
   OWNER_NUMBER: "254756574562",
   SUDO_NUMBERS : "254756574562",
-  OWNER_NAME: "『 {√💔JUPITER}™🕊️ 』",
-  BOT_NAME : "BLACKSURF-MD",
+  OWNER_NAME: "『 {WANJI .J. 』",
+  BOT_NAME : "JUPITER-MD",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
