@@ -16,32 +16,32 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "9289071499",
+  SUDO_NUMBERS : "9289071499",
+  OWNER_NAME: "『 ADI 』",
+  BOT_NAME : "LUFFY",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fanime%2Fcomments%2Fyty4ka%2Fim_still_alive_today_ya_boy_kongming%2F&psig=AOvVaw02d-FjTq19sSjgQthBBi_N&ust=1715434664260000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDgrKmag4YDFQAAAAAdAAAAABAE',
+    WELCOME: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Dc5Ff7ng8ASY&psig=AOvVaw12IvcyYrvErF9WGgufpaO8&ust=1715434746594000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKid2cyag4YDFQAAAAAdAAAAABAR',
+    GOODBYE: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fsadkeyboardguy%2Fgoodbye&psig=AOvVaw3CmSiAHLyuC6wDh70EUz31&ust=1715434843388000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiBkfWag4YDFQAAAAAdAAAAABAE'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
-  WORK_MODE_MESSAGE_SEND : false,
+  WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
@@ -49,14 +49,14 @@ module.exports = {
   },
   READ : {
      ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
-     STATUS : false,
+     ONLY_COMMANDS : true,
+     STATUS : true,
   },
-  BOT_OFFLINE : false,
-  INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  BOT_OFFLINE : true,
+  INBOX_BLOCK : true,
+  AUTO_REACT : true,
   OWNER_REACT : '🤵‍♂️',
-  AUTO_BGM : false,
+  AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
@@ -72,12 +72,12 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
