@@ -16,17 +16,15 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "9289071499",
-  SUDO_NUMBERS : "9289071499",
+  OWNER_NUMBER: "919289071499",
+  SUDO_NUMBERS : "919289071499",
   OWNER_NAME: "『 ADI 』",
   BOT_NAME : "LUFFY",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fanime%2Fcomments%2Fyty4ka%2Fim_still_alive_today_ya_boy_kongming%2F&psig=AOvVaw02d-FjTq19sSjgQthBBi_N&ust=1715434664260000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDgrKmag4YDFQAAAAAdAAAAABAE',
-    WELCOME: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Dc5Ff7ng8ASY&psig=AOvVaw12IvcyYrvErF9WGgufpaO8&ust=1715434746594000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKid2cyag4YDFQAAAAAdAAAAABAR',
-    GOODBYE: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fsadkeyboardguy%2Fgoodbye&psig=AOvVaw3CmSiAHLyuC6wDh70EUz31&ust=1715434843388000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiBkfWag4YDFQAAAAAdAAAAABAE'
-  },
-  STOP_SEND : {
+        ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
+    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg',
         WELCOME_MESSAGE : true,
         GOODBYE_MESSAGE : true
     },
@@ -35,7 +33,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ LUFFY',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
